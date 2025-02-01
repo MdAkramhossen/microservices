@@ -4,108 +4,89 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33d3fbea-2b35-40b7-b0e3-b694eddda84b" name="Changes" comment="">
+    <list default="true" id="e2d399bb-112c-4b36-9e70-8e4b7f87d4cd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/microservices.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/address-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-service/src/main/java/com/logrex/address/AddressApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/address-service/src/main/java/com/logrex/address/AddressApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/address-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student-service/com.logrex.student" beforeDir="false" afterPath="$PROJECT_DIR$/student-service/com.logrex.student" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/student-service/com.logrex.student/src/main/java/com/logrex/microservice/MicroServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/student-service/com.logrex.student/src/main/java/com/logrex/microservice/MicroServiceApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/student-service/com.logrex.student/src/test/java/com/logrex/microservice/MicroServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/student-service/com.logrex.student/src/test/java/com/logrex/microservice/MicroServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/student-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student-service/src/main/java/com/logrex/student/MicroServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/student-service/src/main/java/com/logrex/student/StudentApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student-service/src/main/java/com/logrex/student/feignclients/AddressFeignClients.java" beforeDir="false" afterPath="$PROJECT_DIR$/student-service/src/main/java/com/logrex/student/feignclients/AddressFeignClients.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/student-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student-service/src/test/java/com/logrex/student/MicroServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/student-service/src/test/java/com/logrex/student/StudentApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExternalProjectsData">
-    <projectState path="$PROJECT_DIR$/eureka-server">
-      <ProjectState />
-    </projectState>
-  </component>
-  <component name="ExternalProjectsManager">
-    <system id="GRADLE">
-      <state>
-        <projects_view>
-          <tree_state>
-            <expand />
-            <select />
-          </tree_state>
-        </projects_view>
-      </state>
-    </system>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-        <option value="Interface" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/student-service/com.logrex.student" />
-    <option name="ROOT_SYNC" value="SYNC" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
-      </MavenGeneralSettings>
-    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 6
 }</component>
-  <component name="ProjectId" id="2sMNn3FpSfqC8yoDxSOaxta9t8p" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectId" id="2sQrFeuDFXQzL7Pdr8SdX6L8Ahe" />
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;Spring Boot.AddressApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.MicroServiceApplication (1).executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.MicroServiceApplication.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/microservices&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.AddressApplication.executor": "Run",
+    "Spring Boot.EurekaServerApplication.executor": "Run",
+    "Spring Boot.MicroServiceApplication.executor": "Debug",
+    "Spring Boot.StudentApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "F:/microservices",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\java project\microservices\student\src\main\java\com\logrex\microservice" />
-    </key>
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.MicroServiceApplication">
+  <component name="RunManager" selected="Spring Boot.StudentApplication">
     <configuration name="AddressApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <module name="address" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.logrex.address.AddressApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EurekaServerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="eureka-server (1)" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.logrex.eureka_server.EurekaServerApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -117,10 +98,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MicroServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+    <configuration name="StudentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <module name="student" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.logrex.student.MicroServiceApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.logrex.student.StudentApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -137,27 +118,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="33d3fbea-2b35-40b7-b0e3-b694eddda84b" name="Changes" comment="" />
-      <created>1738261646895</created>
+      <changelist id="e2d399bb-112c-4b36-9e70-8e4b7f87d4cd" name="Changes" comment="" />
+      <created>1738398537373</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1738261646895</updated>
-      <workItem from="1738261647979" duration="62000" />
-      <workItem from="1738262146021" duration="92000" />
-      <workItem from="1738262244939" duration="307000" />
-      <workItem from="1738262908382" duration="3783000" />
-      <workItem from="1738267440775" duration="2733000" />
-      <workItem from="1738270189587" duration="5557000" />
-      <workItem from="1738319405965" duration="1992000" />
-      <workItem from="1738324128025" duration="394000" />
-      <workItem from="1738324555722" duration="43000" />
-      <workItem from="1738324638944" duration="170000" />
-      <workItem from="1738324852071" duration="69000" />
-      <workItem from="1738326359055" duration="4106000" />
-      <workItem from="1738334875673" duration="3250000" />
-      <workItem from="1738338182332" duration="430000" />
-      <workItem from="1738358685000" duration="1166000" />
-      <workItem from="1738360386839" duration="834000" />
+      <updated>1738398537373</updated>
+      <workItem from="1738398538735" duration="5171000" />
+      <workItem from="1738442009879" duration="3694000" />
     </task>
     <servers />
   </component>
@@ -166,12 +133,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <ignored-roots>
-      <path value="$PROJECT_DIR$" />
-      <path value="$PROJECT_DIR$/eureka-server" />
-    </ignored-roots>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/microservices$MicroServiceApplication.ic" NAME="MicroServiceApplication Coverage Results" MODIFIED="1738270065889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
   </component>
 </project>
