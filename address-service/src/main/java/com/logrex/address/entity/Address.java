@@ -11,8 +11,7 @@ import lombok.Setter;
 @Table(name = "address")
 @Setter
 @Getter
-@AllArgsConstructor
-@NoArgsConstructor
+
 public class Address {
 
     @Id
